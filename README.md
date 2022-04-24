@@ -3,7 +3,7 @@ REACT-NATIVE APP, pricing, real time travel & distance from destination 🔥
 
 Data 📊 provided with real time GOOGLE API 🌎💰🕘
 
-this project includes:
+############################### this project includes ###############################
 ⚛️ RAECT NATIVE ######
 🎨 TAILWINDCSS ######
 🖥️ Redux ######
