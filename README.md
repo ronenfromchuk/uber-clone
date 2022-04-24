@@ -1,5 +1,5 @@
 # uber-clone
-REACT-NATIVE APP, pricing, real time travel & destination distance...
+REACT-NATIVE APP, pricing, real time travel & distance from destination 🔥
 
 Data 📊 provided with real time GOOGLE API 🌎💰🕘
 
